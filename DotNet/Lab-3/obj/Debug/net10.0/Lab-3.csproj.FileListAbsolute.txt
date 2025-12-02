@@ -1,0 +1,15 @@
+D:\Labs\sem-6\DotNet\Lab-3\bin\Debug\net10.0\Lab-3.exe
+D:\Labs\sem-6\DotNet\Lab-3\bin\Debug\net10.0\Lab-3.deps.json
+D:\Labs\sem-6\DotNet\Lab-3\bin\Debug\net10.0\Lab-3.runtimeconfig.json
+D:\Labs\sem-6\DotNet\Lab-3\bin\Debug\net10.0\Lab-3.dll
+D:\Labs\sem-6\DotNet\Lab-3\bin\Debug\net10.0\Lab-3.pdb
+D:\Labs\sem-6\DotNet\Lab-3\obj\Debug\net10.0\Lab-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\sem-6\DotNet\Lab-3\obj\Debug\net10.0\Lab-3.AssemblyInfoInputs.cache
+D:\Labs\sem-6\DotNet\Lab-3\obj\Debug\net10.0\Lab-3.AssemblyInfo.cs
+D:\Labs\sem-6\DotNet\Lab-3\obj\Debug\net10.0\Lab-3.csproj.CoreCompileInputs.cache
+D:\Labs\sem-6\DotNet\Lab-3\obj\Debug\net10.0\Lab-3.sourcelink.json
+D:\Labs\sem-6\DotNet\Lab-3\obj\Debug\net10.0\Lab-3.dll
+D:\Labs\sem-6\DotNet\Lab-3\obj\Debug\net10.0\refint\Lab-3.dll
+D:\Labs\sem-6\DotNet\Lab-3\obj\Debug\net10.0\Lab-3.pdb
+D:\Labs\sem-6\DotNet\Lab-3\obj\Debug\net10.0\Lab-3.genruntimeconfig.cache
+D:\Labs\sem-6\DotNet\Lab-3\obj\Debug\net10.0\ref\Lab-3.dll
