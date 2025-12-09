@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Labs\\sem-6\\DotNet\\Lab-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBC4F10-E0F5-45E9-931F-FF4CE3E35293}|Lab-5.csproj|d:\\labs\\sem-6\\dotnet\\lab-5\\irentable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBC4F10-E0F5-45E9-931F-FF4CE3E35293}|Lab-5.csproj|solutionrelative:irentable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBC4F10-E0F5-45E9-931F-FF4CE3E35293}|Lab-5.csproj|d:\\labs\\sem-6\\dotnet\\lab-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBC4F10-E0F5-45E9-931F-FF4CE3E35293}|Lab-5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBC4F10-E0F5-45E9-931F-FF4CE3E35293}|Lab-5.csproj|d:\\labs\\sem-6\\dotnet\\lab-5\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBC4F10-E0F5-45E9-931F-FF4CE3E35293}|Lab-5.csproj|solutionrelative:bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBC4F10-E0F5-45E9-931F-FF4CE3E35293}|Lab-5.csproj|d:\\labs\\sem-6\\dotnet\\lab-5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBC4F10-E0F5-45E9-931F-FF4CE3E35293}|Lab-5.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRentable.cs",
+              "DocumentMoniker": "D:\\Labs\\sem-6\\DotNet\\Lab-5\\IRentable.cs",
+              "RelativeDocumentMoniker": "IRentable.cs",
+              "ToolTip": "D:\\Labs\\sem-6\\DotNet\\Lab-5\\IRentable.cs*",
+              "RelativeToolTip": "IRentable.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:56:48.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "D:\\Labs\\sem-6\\DotNet\\Lab-5\\Bike.cs",
+              "RelativeDocumentMoniker": "Bike.cs",
+              "ToolTip": "D:\\Labs\\sem-6\\DotNet\\Lab-5\\Bike.cs",
+              "RelativeToolTip": "Bike.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:53:40.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Labs\\sem-6\\DotNet\\Lab-5\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\Labs\\sem-6\\DotNet\\Lab-5\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:53:04.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Labs\\sem-6\\DotNet\\Lab-5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Labs\\sem-6\\DotNet\\Lab-5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:29:17.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Labs\sem-6\DotNet\Lab-5\bin\Debug\net10.0\Lab-5.exe
+D:\Labs\sem-6\DotNet\Lab-5\bin\Debug\net10.0\Lab-5.deps.json
+D:\Labs\sem-6\DotNet\Lab-5\bin\Debug\net10.0\Lab-5.runtimeconfig.json
+D:\Labs\sem-6\DotNet\Lab-5\bin\Debug\net10.0\Lab-5.dll
+D:\Labs\sem-6\DotNet\Lab-5\bin\Debug\net10.0\Lab-5.pdb
+D:\Labs\sem-6\DotNet\Lab-5\obj\Debug\net10.0\Lab-5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\sem-6\DotNet\Lab-5\obj\Debug\net10.0\Lab-5.AssemblyInfoInputs.cache
+D:\Labs\sem-6\DotNet\Lab-5\obj\Debug\net10.0\Lab-5.AssemblyInfo.cs
+D:\Labs\sem-6\DotNet\Lab-5\obj\Debug\net10.0\Lab-5.csproj.CoreCompileInputs.cache
+D:\Labs\sem-6\DotNet\Lab-5\obj\Debug\net10.0\Lab-5.dll
+D:\Labs\sem-6\DotNet\Lab-5\obj\Debug\net10.0\refint\Lab-5.dll
+D:\Labs\sem-6\DotNet\Lab-5\obj\Debug\net10.0\Lab-5.pdb
+D:\Labs\sem-6\DotNet\Lab-5\obj\Debug\net10.0\Lab-5.genruntimeconfig.cache
+D:\Labs\sem-6\DotNet\Lab-5\obj\Debug\net10.0\ref\Lab-5.dll
